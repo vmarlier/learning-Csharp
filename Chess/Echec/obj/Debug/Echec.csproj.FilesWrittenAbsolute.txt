@@ -1,0 +1,5 @@
+/home/valentin/Ingesup/B2/LangageObjet/Project/Echec/Echec/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/valentin/Ingesup/B2/LangageObjet/Project/Echec/Echec/bin/Debug/Echec.pdb
+/home/valentin/Ingesup/B2/LangageObjet/Project/Echec/Echec/bin/Debug/Echec.exe
+/home/valentin/Ingesup/B2/LangageObjet/Project/Echec/Echec/obj/Debug/Echec.exe
+/home/valentin/Ingesup/B2/LangageObjet/Project/Echec/Echec/obj/Debug/Echec.pdb

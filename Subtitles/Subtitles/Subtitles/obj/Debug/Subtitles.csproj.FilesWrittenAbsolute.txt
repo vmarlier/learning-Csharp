@@ -1,0 +1,5 @@
+/home/robot/Ingesup/B2/C#/Project/Subtitles/Subtitles/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/robot/Ingesup/B2/C#/Project/Subtitles/Subtitles/bin/Debug/Subtitles.pdb
+/home/robot/Ingesup/B2/C#/Project/Subtitles/Subtitles/bin/Debug/Subtitles.exe
+/home/robot/Ingesup/B2/C#/Project/Subtitles/Subtitles/obj/Debug/Subtitles.exe
+/home/robot/Ingesup/B2/C#/Project/Subtitles/Subtitles/obj/Debug/Subtitles.pdb
